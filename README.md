@@ -1,2 +1,3 @@
 # pvcapp
-A Vue 3 + Vite + Capacitor app template.
+
+A PrimeVue + Vue 3 + Vite + Capacitor app template. 
